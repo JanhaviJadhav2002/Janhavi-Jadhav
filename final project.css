@@ -1,0 +1,157 @@
+
+.one{
+    position: absolute;
+    top: 0px;
+    padding-top: 0%;
+    color: rgb(243, 246, 247);
+    font-size: 30px;
+}
+.title{
+    position: absolute;
+    padding-top: 40px;
+    padding-left: 275px;
+    margin-left: 375px;
+    color: white;
+    font-size: larger;
+    font-size: 100px;
+}
+.firstimg{
+    color: black;
+    height: 500px;
+    width: 100%;
+}
+.find_your_home{
+    position: absolute;
+    padding-top: 160px;
+    padding-left: 170px;
+    margin-left: 375px;
+    color: white;
+    font-size: larger;
+    font-size: 70px;
+}
+.find_it{
+    color: white;
+    position: absolute;
+    font-size: 25px;
+    top: 300px;
+    left: 450px;
+}
+.apartimg{
+    position: relative;
+    top: 20px;
+    width: 1000px;
+    margin: auto;
+    display:flex;
+    justify-content: space-between;
+
+}
+.three{
+    position: relative;
+    top: 10px;
+    background-color: bisque;
+}
+.card{
+    height: 100px;
+    width: 100px;
+}
+.Popular{
+    position: relative;
+    top: 10px;
+    text-align: center;
+    font-size: larger;
+}
+
+.four{
+    position: relative;
+    top: 350px;
+    width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+
+    border:7px rgb(1, 8, 1) solid;
+
+    background-image: linear-gradient(135deg,pink,purple,red);
+    /* this will show colors in diagonal */
+
+    font-style: italic;
+    font-size: 115% ;
+    border:black dotted ;
+
+
+}
+
+.button{
+    background-color: black;
+    color: darkslategrey;
+    padding:10px 20px;
+    border: 20px rgb(201, 7, 17);
+    box-shadow:3px 3px 3px olive;
+}
+.button:hover{
+    background-color: orangered;
+    color: peachpuff;
+}
+.sixx{
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+    top: 450px;
+    
+}
+.imgg{
+    box-shadow: 10px 10px lightblue;
+}
+.six_fav{
+    font: size 90px;
+    position: relative;
+    top: 400px;
+    left: 650px;
+}
+.figg{
+    text-align: center;
+    text-decoration: none;
+}
+.figg a{
+    color: black;
+}
+.figg :hover{
+    color: indigo;
+    background-color: darksalmon;
+}
+
+
+/* footer */
+.five{
+    position: relative;
+    top: 450px;
+}
+footer{
+    /* background-color: wheat; */
+    background-color: gray;
+    /* color: rgb(85, 30, 30); */
+    color: aliceblue;
+    position: relative;
+    top: 50px;
+}
+.row{
+    display: flex;
+    justify-content: space-around;
+}
+.footer-copyright{
+    text-align: center;
+    padding-bottom: 10px;
+}
+.footer-copyright a{
+    color: black;
+}
+.col{
+    padding-right: 700px;
+    padding-top: 10px;
+}
+.column{
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.list-unstyled a{
+    color: black;
+}

@@ -1,0 +1,43 @@
+
+.navbar{
+    background-color: hotpink;
+    color: black;
+    
+}
+.mainn{
+    position: absolute;
+    top: 50px;
+    width: 700px;
+    left: 425px;
+}
+.table{
+    position: absolute;
+    top: 600px;
+    left: 300px;
+}
+
+
+.five{
+    position: relative;
+    top: 400px;
+}
+footer{
+    background-color: wheat;
+    color: rgb(85, 30, 30);
+}
+.row{
+    display: flex;
+    justify-content: space-around;
+}
+.footer-copyright{
+    text-align: center;
+    padding-bottom: 10px;
+}
+.col{
+    padding-right: 700px;
+    padding-top: 10px;
+}
+.column{
+    padding-left: 10px;
+    padding-top: 10px;
+}

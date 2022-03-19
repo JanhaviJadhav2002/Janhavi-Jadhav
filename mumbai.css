@@ -1,0 +1,45 @@
+body{
+    background-image: linear-gradient(135deg,pink,purple,red);
+}
+cards_one{
+    
+    display:flex;
+    justify-content: space-between;
+
+}
+.navbar{
+    background-color: hotpink;
+    color: black;
+}
+.mainn{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    /* background-color: darkseagreen; */
+    position: relative;
+    top: 50px;
+}
+.five{
+    position: relative;
+    top: 50px;
+}
+footer{
+    background-color: wheat;
+    color: rgb(85, 30, 30);
+}
+.row{
+    display: flex;
+    justify-content: space-around;
+}
+.footer-copyright{
+    text-align: center;
+    padding-bottom: 10px;
+}
+.col{
+    padding-right: 700px;
+    padding-top: 10px;
+}
+.column{
+    padding-left: 10px;
+    padding-top: 10px;
+}
